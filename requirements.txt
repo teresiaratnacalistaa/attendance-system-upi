@@ -1,0 +1,7 @@
+streamlit
+streamlit_option_menu
+opencv-python
+keras
+keras-preprocessing
+tensorflow
+plotly_express
